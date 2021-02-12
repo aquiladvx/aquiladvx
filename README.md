@@ -6,9 +6,9 @@
 
 ### Hi there :shipit:
 
-    - Android Developer
-    - Venturing into the iOS development and back-end
-    - Currently learning UX design
+   - Android Developer
+   - Venturing into the iOS development and back-end
+   - Currently learning UX design
 
 ----
 <p align="left">
