@@ -1,16 +1,18 @@
-### Hi there 👋
+# Davi Áquila :man_technologist: :iphone:
 
-<!--
-**aquiladvx/aquiladvx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/aquiladvx)](https://github.com/aquiladvx)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aquiladvx)](https://www.linkedin.com/in/aquiladvx)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aquiladvx)](https://twitter.com/aquiladvx)
 
-Here are some ideas to get you started:
+### Hi there :shipit:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - Android Developer
+    - Venturing into the iOS development and back-end
+    - Currently learning UX design
+
+----
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40" unselectable="on"/>
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" unselectable="on"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" unselectable="on"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" unselectable="on"/>
