@@ -16,3 +16,5 @@
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" unselectable="on"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" unselectable="on"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" unselectable="on"/>
+<img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" width="40" height="40" unselectable="on"/>
+<img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40" unselectable="on"/>
